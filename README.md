@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -6,21 +6,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>SAHIL-0001</title>
+<title></title>
 <meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="SAHIL-0001" />
+<meta property="og:title" content="" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://sahilu7777y7.github.io/SAHIL-0001/" />
-<meta property="og:url" content="https://sahilu7777y7.github.io/SAHIL-0001/" />
-<meta property="og:site_name" content="SAHIL-0001" />
+<link rel="canonical" href="https://sahilu7777y7.github.io//" />
+<meta property="og:url" content="https://sahilu7777y7.github.io//" />
+<meta property="og:site_name" content="" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="SAHIL-0001" />
+<meta property="twitter:title" content="" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"SAHIL-0001","name":"SAHIL-0001","url":"https://sahilu7777y7.github.io/SAHIL-0001/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"","name":"","url":"https://sahilu7777y7.github.io//"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/SAHIL-0001/assets/css/style.css?v=bdbea7b7562535c36a641c2931ffcba7a17ba2f9">
+    <link rel="stylesheet" href="//assets/css/style.css?v=bdbea7b7562535c36a641c2931ffcba7a17ba2f9">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -28,7 +28,7 @@
 
 
 <!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/SAHIL-0001/favicon.ico" -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="//favicon.ico" -->
 
 <!-- end custom head snippets -->
 
@@ -36,7 +36,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://sahilu7777y7.github.io/SAHIL-0001/">SAHIL-0001</a></h1>
+      <h1><a href="https://sahilu7777y7.github.io//"></a></h1>
       
 
       
